@@ -1,0 +1,8 @@
+{
+	"name": "ggst-hello-bot",
+	"main": "src/index.js",
+	"compatibility_date": "2026-11-20",
+	"observability": {
+		"enabled": true
+	}
+}
